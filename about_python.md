@@ -8,12 +8,12 @@ It supports different code style paradigms: imperative, functional, object orien
 It's interpreted language, although firstly python interpreter converts code into bytecode and then 
 executes it via PVM.
 
-Python sticks with first class object concept. It means that every object in Python is equally valuable.
+Python sticks with first class object concept. It means that every object in Python is equally valuable.  
 This means that it supports well OOP paradigm - is object oriented language.
 
 Python has good standard library, and also a lot af additional packages to suppord different kind of tasks.
 
-There are such well known frameworks as Django and Flask that help to develop web sites. 
+There are such well known frameworks as Django and Flask that help to develop web sites.  
 Importang packages are Numpy and Pandas - for numerical programming.
 
 ## Info to study:
