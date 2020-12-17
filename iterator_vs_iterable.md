@@ -7,6 +7,7 @@ Loop - is a constract that allows to perform repeated code block executioin.
 One type of the loop is for loop - is achieved by iterating through 'counter'.
 
 Counter in this context is object, which can consequitively generate values from specific range.  
+
 Counter is iterator.
 
 Iterator has __next__ method and raises StopIterationError when exhausted.  
