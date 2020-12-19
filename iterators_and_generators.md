@@ -34,7 +34,7 @@ This exception must be caught inside the body of generator function.
 
 ## [Practice task list](https://python-course.eu/python3_generators.php#Exercises):
 - [x] Write a generator which computes the running average.
-- [ ] Write a generator frange, which behaves like range but accepts float values.
+- [X] Write a generator frange, which behaves like range but accepts float values.
 - [ ] Write a generator trange, which generates a sequence of time tuples.
 - [ ] Write a version "rtrange" of the previous generator, which can receive messages to reset the start value.
 - [ ] Write a program, using the newly written generator "trange" to create a file "times_and_temperatures.txt".  
